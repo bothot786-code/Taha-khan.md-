@@ -1,8 +1,8 @@
 {
-  "name": "EDITH-MD",
-  "description": "Javascript WhatsApp bot powered by Bandaheali",
-  "logo": "https://cdn-bandaheali.zone.id/edith/alive.jpg",
-  "keywords": ["EDITH-MD", "WhatsApp Bot", "Bandaheali"],
+  "name": "TAHA-MD",
+  "description": "Javascript WhatsApp bot powered by Taha khan",
+  "logo": "https://i.imgur.com/1tUVG85.jpeg",
+  "keywords": ["TAHA-MD", "WhatsApp Bot", "Taha-khan"],
   "success_url": "/",
   "stack": "container",
   "env": {
