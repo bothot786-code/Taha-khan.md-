@@ -1,12 +1,12 @@
 /*
-   ✦ ✦ ✦   E D I T H - M D   ✦ ✦ ✦
+   ✦ ✦ ✦   T A H A - M D   ✦ ✦ ✦
 
 ─────────────────────────────────────────────────────────────
-📛 Project   : Edith-MD
-👤 Creator   : Bandaheali
-🌐 GitHub    : https://github.com/Bandah-E-Ali
-📱 Contact   : https://t.me/@bandaheali
-📢 Channel   : 
+📛 Project   : Taha-MD
+👤 Creator   : TAHA KHAN 
+🌐 GitHub    : https://github.com/
+📱 Contact   : +923474771404
+📢 Channel   : https://whatsapp.com/channel/0029Vb7lhr96buMEe8ShC42t
 🗓 Release   : 12 • Aprail • 2026 | 12:00 PM
 ─────────────────────────────────────────────────────────────
  
