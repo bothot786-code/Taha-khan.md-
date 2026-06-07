@@ -1,7 +1,7 @@
 {
   "name": "EDITH-MD",
   "version": "5.0.0",
-  "description": "WhatsApp Bot created By Bandaheali.",
+  "description": "WhatsApp Bot created By taha khan.",
   "main": "index.js",
   "scripts": {
     "start": "pm2 start index.js --deep-monitoring --attach --name EDITH-MD",
